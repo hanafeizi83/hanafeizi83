@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi everyone🙋‍♀️<br>I’m Hana<br>l’m 20 years old<br>i’ve been learning react and javascript professional for 7 months<br><br>I have the skill in react , javascript , css , git , tailwind css ,html  .<br><br>I’m passionate about web programming, creating, and learning new things.
+Hi everyone🙋‍♀️<br>I’m Hana<br>l’m 20 years old<br>i’ve been learning react and javascript professional for 7 months<br><br>I have skills in react , javascript , css , git , tailwind css ,html  .<br><br>I’m passionate about web programming, creating, and learning new things.
 
 
 ## 🌐 Socials:
